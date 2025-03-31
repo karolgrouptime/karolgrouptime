@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Rech! 👋
 
-<!--
-**karolgrouptime/karolgrouptime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about open-source projects, technology, and continuous learning. 🚀
 
-Here are some ideas to get you started:
+### 📌 About Me
+- 💻 I love coding and exploring new technologies.
+- 🌍 Always eager to contribute to open-source projects.
+- 📫 Connect with me on **Telegram:** [@karolgrouptime](https://t.me/karolgrouptime).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 GitHub Stats
+![Rech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rech&show_icons=true&theme=radical)
+
+### 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rech&layout=compact&theme=radical)
+
+### ⚡ Fun Fact
+I believe in the power of **open-source** and collaboration! Let's build something amazing together. ✨
+
+---
+💡 _Feel free to explore my repositories and contribute!_

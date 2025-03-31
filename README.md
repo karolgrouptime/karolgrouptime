@@ -1,4 +1,5 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat-bold&color=%2300F723&size=32&multiline=true&width=700&height=55&lines=Hi+there,+I'm+Rech!+👋)]
+(https://readme-typing-svg.herokuapp.com?font=montserrat-bold&color=%2300F723&size=32&multiline=true&width=700&height=55&lines=Hi+there,+I'm+Rech!+👋)
+
 Welcome to my GitHub profile! I'm passionate about open-source projects, technology, and continuous learning. 🚀
 
 ### 📌 About Me
